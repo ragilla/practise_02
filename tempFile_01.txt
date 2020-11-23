@@ -1,1 +1,2 @@
-Learing Git Hub, In Local file 
+
+Learing Git Hub, In Local file and Remote merged
